@@ -3,6 +3,7 @@ class Pessoa{
     public nome:string;
     public idioma:string;
     public teste:number;
+    
 }
 
 export = Pessoa;
