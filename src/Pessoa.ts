@@ -8,7 +8,7 @@ class Pessoa{
     public testolandi:string;
     public testolandi2:string;
     public testolandi3:string;
-
 }
 
+//simple export typeScript
 export = Pessoa;
