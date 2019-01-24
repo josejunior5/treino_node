@@ -5,6 +5,10 @@ class Pessoa{
     public teste:number;    
     public teste1:number;
     public teste2:number;
+    public testolandi:string;
+    public testolandi2:string;
+    public testolandi3:string;
+
 }
 
 export = Pessoa;
